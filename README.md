@@ -23,8 +23,6 @@ You can click the Preview link to take a look at your changes.
 [![Benie's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenieShann&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 [![Benie's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BenieShann&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BenieShann&theme=prussian&mode=weekly" alt="GitHub Streak" /></a>
-
 ---
 
 ## 🛠️ **My Tech Stack**
