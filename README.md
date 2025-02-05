@@ -1,5 +1,5 @@
 <!---
-Benie Shann/Benie Shann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shaniz-Ann/Shaniz-Ann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 📊 **GitHub Stats & Activity**
-[![GitHub Streak](https://streak-stats.demolab.com?user=BenieShann&theme=prussian&mode=weekly)](https://git.io/streak-stats) 
-[![Benie's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenieShann&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Benie's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BenieShann&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shaniz-Ann&theme=prussian&mode=weekly)](https://git.io/streak-stats) 
+[![Benie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaniz-Ann&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Benie's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shaniz-Ann&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 ---
 
@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 📫 **Let’s Connect**
 - [![Gmail Badge](https://img.shields.io/badge/-Benie%20Shann-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:vingentz@gmail.com)
-- [![Twitter Badge](https://img.shields.io/badge/-BSV_Shann-00acee?style=flat&logo=twitter&logoColor=white)](https://x.com/BSV_Shann)
+- [![Twitter Badge](https://img.shields.io/badge/-Shann_Vana-00acee?style=flat&logo=twitter&logoColor=white)](https://x.com/Shann_Vana)
 - [![Linkedin Badge](https://img.shields.io/badge/-Shaniz%20Mumbua-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shann-vana/)
 
 ---
